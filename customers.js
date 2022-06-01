@@ -1,7 +1,7 @@
 const customers = [
   {
     name: {
-      title: 'dr',
+      title: 'dr.',
       first: 'sophia',
       last: 'burns'
     },
@@ -47,7 +47,7 @@ const customers = [
   },
   {
     name: {
-      title: 'mx',
+      title: 'mx.',
       first: 'krin',
       last: 'oliver'
     },
@@ -93,7 +93,7 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
+      title: 'ms.',
       first: 'letitia',
       last: 'perry'
     },
@@ -139,7 +139,7 @@ const customers = [
   },
   {
     name: {
-      title: 'Ms',
+      title: 'Ms.',
       first: 'margie',
       last: 'jones'
     },
@@ -231,7 +231,7 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
+      title: 'ms.',
       first: 'laurie',
       last: 'dean'
     },
@@ -277,7 +277,7 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
+      title: 'mr.',
       first: 'russell',
       last: 'simmons'
     },
@@ -323,7 +323,7 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
+      title: 'ms.',
       first: 'carmen',
       last: 'hunt'
     },
@@ -369,7 +369,7 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
+      title: 'ms.',
       first: 'erika',
       last: 'coleman'
     },
@@ -415,7 +415,7 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
+      title: 'mr.',
       first: 'clifford',
       last: 'ramos'
     },
@@ -461,7 +461,7 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
+      title: 'mr.',
       first: 'cody',
       last: 'evans'
     },
@@ -507,7 +507,7 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
+      title: 'mr.',
       first: 'miguel',
       last: 'ross'
     },
